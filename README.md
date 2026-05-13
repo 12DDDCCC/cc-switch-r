@@ -8,7 +8,7 @@ Claude Code 三 API 路由代理，支持将不同模型请求智能路由到对
 |------|----------|------|
 | `astron-code-latest` | 讯飞 API | 主模型 (opus) |
 | `deepseek-v4-pro` | DeepSeek API | 辅助模型 (sonnet) |
-| `MiniMax-M2.7` | MiniMax API | 后台/subagent |
+| `MiniMax-M2.7` | MiniMax API | 后台/haiku |
 
 ## 快速开始
 
