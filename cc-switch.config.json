@@ -1,0 +1,16 @@
+{
+  "effortLevel": "high",
+  "env": {
+    "ANTHROPIC_AUTH_TOKEN": "aabbcc",
+    "ANTHROPIC_BASE_URL": "http://127.0.0.1:3456",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "MiniMax-M2.7",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "astron-code-latest",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "deepseek-v4-pro[1m]",
+    "ANTHROPIC_MODEL": "astron-code-latest",
+    "ANTHROPIC_REASONING_MODEL": "astron-code-latest",
+    "API_TIMEOUT_MS": "3000000",
+    "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": "1"
+  },
+  "includeCoAuthoredBy": false,
+  "model": "opus"
+}
